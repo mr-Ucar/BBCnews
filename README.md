@@ -1,5 +1,5 @@
 # BBCnews
-A simple CLI tool to scrape latest BBC news. The latest news will also be saved as csv in your Desktop.
+### A simple CLI tool to scrape latest BBC news. The latest news will also be saved as csv in directory where you run the script.
 
 **Usage:**
 *python3 BBCnews.py*
